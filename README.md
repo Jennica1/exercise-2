@@ -1,6 +1,8 @@
-# Class 2 
+# Exercise 1
+## Created By
+- Jennica
+# Description
 - Passing Values
 - Components
-- global colors
-- event changes
-- flex
+- Importing/Exporting
+- useState
